@@ -44,12 +44,12 @@ cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 
     
 # Define the owner's user ID
-OWNER_ID = 6344648593 # Replace with the actual owner's user ID
+OWNER_ID = 1114789110 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [6344648593,]
+SUDO_USERS = [1114789110,]
 
-AUTH_CHANNEL = -1002134129744
+AUTH_CHANNEL = -1002497675182
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
